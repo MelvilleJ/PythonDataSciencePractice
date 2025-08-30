@@ -1,2 +1,7 @@
-# PythonDataSciencePractice
-Simply a short project utilizing pandas, numpy and matpotlib in order for me to practice using these libraries for AI development.
+# Finance Tracker 💰
+A simple Python project to analyze income and expenses using **NumPy**, **Pandas**, and **Matplotlib**.
+## Features
+- Import transactions from CSV
+- Calculate rolling averages (income & expenses)
+- Generate monthly totals and charts
+- Detect outliers using NumPy
